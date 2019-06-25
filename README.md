@@ -1,5 +1,7 @@
 # BGreen
 
+This program has been made by me and my team members as a project using the spring framework.
+
 Application that allows you to log your activities, tracks how much CO2 you save and compares it to you friends'.
 
 ## Demo
